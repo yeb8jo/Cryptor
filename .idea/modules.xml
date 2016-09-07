@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cryptor.iml" filepath="$PROJECT_DIR$/Cryptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cryptor/app.iml" filepath="$PROJECT_DIR$/cryptor/app.iml" />
+    </modules>
+  </component>
+</project>
